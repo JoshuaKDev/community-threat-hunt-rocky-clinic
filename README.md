@@ -176,6 +176,9 @@ Later edits were performed with `vim`, but the original no-editor creation event
 
 The service was later used to launch outbound control activity.
 
+<img width="3020" height="1546" alt="image" src="https://github.com/user-attachments/assets/4bb17f1c-872e-4b21-b5f5-1257ec331c3c" />
+
+
 ---
 
 ### 7. Reverse Shell Execution
