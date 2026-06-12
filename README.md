@@ -312,6 +312,9 @@ The `AttackTechniques` field recorded:
 
 This confirmed that the EDR classified the activity as both general indicator removal and the specific Timestomp sub-technique.
 
+<img width="2994" height="1472" alt="image" src="https://github.com/user-attachments/assets/2f58df88-4772-4a9e-9329-8ebc6208d8f2" />
+
+
 ---
 
 ## Key Findings
