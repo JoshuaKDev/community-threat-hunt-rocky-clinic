@@ -203,6 +203,9 @@ Observed process chain:
 
 This activity showed that outbound control was established from the host and that the attacker obtained an interactive command session.
 
+<img width="3018" height="1540" alt="image" src="https://github.com/user-attachments/assets/936d12cb-946d-42c6-ab7f-8b1d3ac2e164" />
+
+
 ---
 
 ### 8. Failed Transfer Attempt
