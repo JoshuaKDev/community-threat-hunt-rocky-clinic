@@ -242,6 +242,9 @@ The successful exfiltration endpoint observed in network telemetry was:
 
 This activity aligns with exfiltration over a legitimate cloud/SaaS service to blend with normal HTTPS traffic.
 
+<img width="3020" height="1516" alt="image" src="https://github.com/user-attachments/assets/f7076ca6-964c-49cc-b156-c39b43c811b7" />
+
+
 ---
 
 ### 10. Selective Log Erasure
