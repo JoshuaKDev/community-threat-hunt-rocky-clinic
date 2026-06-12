@@ -104,6 +104,9 @@ Relevant Docker volume paths included:
 /var/lib/docker/volumes/r0ckyyy335_openemr_sites/_data
 ```
 
+<img width="1512" height="766" alt="Screenshot 2026-06-11 at 7 01 38 PM" src="https://github.com/user-attachments/assets/8c823c93-95e8-4395-a541-f4272d05b99a" />
+
+
 ---
 
 ### 4. Data Staging
